@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*_backup.pyw
+*.part
+*.ytdl
+*.log
+data/history.json
+.vscode/
+.idea/
